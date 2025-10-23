@@ -2,11 +2,11 @@ const STATIC_CACHE = 'static-v1';
 const DYNAMIC_CACHE = 'dynamic-v1';
 
 const APP_SHELL = [
-    '/',
-    'index.html',
-    'calendario.html',
-    'formulario.html',
-    'main.js',
+    './',
+    './index.html',
+    './calendario.html',
+    './formulario.html',
+    './main.js',
     'https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css',
     'https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js'
 ];
